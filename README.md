@@ -13,4 +13,4 @@ Output
    simple interest = p*t*r
 ```
 
-this is test git commit commanad
+_© 2022 XYZ, Inc._
